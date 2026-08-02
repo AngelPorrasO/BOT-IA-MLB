@@ -1,0 +1,12 @@
+# Python y entornos
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.streamlit/
+
+# Entorno Windows
+Thumbs.db
+desktop.ini
